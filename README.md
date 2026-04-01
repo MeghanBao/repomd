@@ -1,4 +1,4 @@
-# claudemd-gen
+# repomd(claudemd-gen)
 
 A CLI tool that analyzes any GitHub repo and generates a production-quality `CLAUDE.md` file using the Anthropic SDK.
 
